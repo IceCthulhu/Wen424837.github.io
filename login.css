@@ -8,3 +8,10 @@ h1{
        font-weight: 400;
        font-style: normal;
    }
+body{
+    margin-left:20%;
+    margin-top:5%;
+}
+form{
+    padding:5%;
+}
